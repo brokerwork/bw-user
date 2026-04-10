@@ -1,0 +1,2673 @@
+{
+	"id": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+	"name": "bw-user",
+	"description": "",
+	"order": [
+		"caecf507-eb56-b164-c0ad-dcc2fd06b71d",
+		"7fa6a244-dad1-c45b-8d97-2b361aaceaf9",
+		"fe720dbd-828e-bc64-78ce-25695009695e",
+		"37854d4b-70e5-e449-d02f-35f8e9ec5617",
+		"0a3ba07c-37d0-90cb-646f-c8953a317b12",
+		"e42681f3-83eb-6b88-1051-371c7ed4711e",
+		"55f73b48-8663-a632-3e9c-f28db71c71df",
+		"735dbcc1-fb8f-9453-706a-26803b9ebd67",
+		"0a2896fc-659a-e590-9015-e086c54c3afa",
+		"98f47917-5906-329c-c718-525a6ad2ecce",
+		"e99ee24b-a105-6cac-4c81-84f1d3a49e1c",
+		"781ad7e5-47d5-9dba-8b87-312cb891b833",
+		"c713d0ff-3242-79c9-e1ff-7d10f7b2fa39",
+		"23b71a0b-02d2-3e23-5ee1-32d2ca9eed8f",
+		"0cd98b87-4be6-2e0e-f3c9-31ff6bfc8fcc",
+		"f375f8b9-d2fb-5d2b-1c0c-a54b0bb412b5",
+		"8031fa4b-576f-77de-5228-85425421175b",
+		"c1b38e37-95f0-9f80-7fb7-23d8a9a62d80",
+		"3f859676-d207-f8ac-067f-d0466fd1756f",
+		"85e7eff1-a2dd-5d23-addf-a3c764663e26",
+		"de4f873f-5c2b-5ec7-58b5-4af2631bd786",
+		"66cb13d5-0c98-9cb6-816f-9dd78d739515",
+		"abdd11e1-e454-b4c8-568a-ffd84751f3c6",
+		"a92da5ef-63d5-72b7-0361-9d46427faf6f",
+		"c1be851b-c0d3-46e2-2250-bdb92702b714",
+		"e587dfe5-38ee-6a3b-1c41-0d48876636f8",
+		"a2a2b533-cdb9-2356-8164-de8c8ca54bdf",
+		"2162d327-c768-545c-c8b3-68e0690099c7",
+		"c363540e-8010-89a9-87de-2df3e58d6727",
+		"b0195fd6-e7ba-5819-3dec-ccc9ca1e8ab2",
+		"63e42ab4-c289-6246-4797-07d4be8f9f41",
+		"875934c6-ec46-7632-a402-cb5ce2718a30",
+		"01ee1d59-9892-7ff7-59dd-91e45fdd5984",
+		"6332929c-090a-23a9-2963-7a3e2e4bb2ee",
+		"a94dc951-65df-0ae9-7531-e925c8f02d16",
+		"35ea0f60-eec9-6a81-3ae7-96b3173f4c4c",
+		"868c9c94-6bd3-59f2-36ac-c4b94b27ac8a",
+		"5547e582-1c8b-7793-47bb-4540cc48390e",
+		"e56b0ed2-c427-ce68-7ca8-79a4208bc587",
+		"38cdfa22-c363-c91f-6e5a-aefa9975e161",
+		"ed3c183c-2535-8fac-587d-aecf48b029a4",
+		"1d1ab269-c2e6-776e-3967-91727e3a3435",
+		"1c7c801d-05a6-ff6c-5a10-4d00aff48435",
+		"d2afd147-3242-b9db-1934-3e4a1a76883d",
+		"3023428e-3847-b8cf-6572-45c4548e69c5",
+		"ed14e53f-128e-3378-6884-06a75e268139",
+		"2435dff4-bf15-3892-359f-39e515a358f4",
+		"e9eba611-a3c8-34e6-7436-e86cf9e4c2c8",
+		"9d881ae8-57d1-d6e5-e526-3a341a26e84d",
+		"5de96f3e-279a-84f7-2196-7797bbb96a58",
+		"47810cbf-d19c-8ab5-f9ff-58bdcc1e534a",
+		"7a7a8fa1-ec78-27f4-44d8-aed5211f069d",
+		"d56fd6ac-0539-f0d8-394d-34efb1434fbc",
+		"20be54fa-5049-e91d-2448-6ce2ba098bb6",
+		"79d36533-9399-13c6-6411-40d4a368a3f3",
+		"7be9a612-0c17-ccc4-936b-94728aa17136",
+		"7f741407-0c5d-ad26-5c55-4c14a023cb0d",
+		"56c811ce-0bae-aa06-51ab-0a0812549307",
+		"18782706-84c2-6ef0-c05b-7a0ae84b1a59",
+		"7f283921-e691-8e9e-2b29-6cb6311c9507",
+		"ee9c0d0b-6198-de2f-0fe3-9873da51748c",
+		"539fe48b-92be-0ce6-dc2e-23022e439755",
+		"f69f4c01-b998-903b-f57a-92a01b755404",
+		"ccb9619e-3ad6-f492-abe4-2b22b1db302b",
+		"870e9615-4461-b957-2562-b50b7382e25b",
+		"980a19e1-ef0f-4d5e-8340-37c1cbcd4e4b",
+		"c8df9854-f809-4c68-d334-e070ddbeb571",
+		"aa9e477e-b830-7816-bb0f-86235d9cf4a7",
+		"b410cef9-ba7c-fa7b-95af-bb4deeb185c5",
+		"560511db-19b3-4438-3347-a1fba4553078",
+		"4d6fa587-f470-b4e6-f05f-646103e77caa",
+		"34ef0f7b-fd7b-ff22-658f-40f09532c8f2",
+		"121d4a84-4e79-e2c8-c5ca-5024d2f0df9c",
+		"89443f89-505e-4f66-4837-ee10707800b2"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1504076309050,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "01ee1d59-9892-7ff7-59dd-91e45fdd5984",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/list/childIds?execBelong=false",
+			"queryParams": [
+				{
+					"key": "execBelong",
+					"value": "false",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查询下级用户信息/v1/user/list/childIds?execBelong=false",
+			"description": "execBelong，是否排除直属下级",
+			"descriptionFormat": "html",
+			"time": 1505129690495,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "0a2896fc-659a-e590-9015-e086c54c3afa",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"1ad04600-8dce-4381-a8fd-293f1026cfe4\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"1ad04600-8dce-4381-a8fd-293f1026cfe4\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/role/child?roleId=11",
+			"queryParams": [
+				{
+					"key": "roleId",
+					"value": "11",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1504525282426,
+			"name": "根据roleID获取ChildRole /v1/role/1/child",
+			"description": "",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"responses": []
+		},
+		{
+			"id": "0a3ba07c-37d0-90cb-646f-c8953a317b12",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": ""
+				}
+			],
+			"url": "http://47.90.65.57:8091//v1/user/updateActiveById?userId=230&isActive=true",
+			"queryParams": [
+				{
+					"key": "userId",
+					"value": "230",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "isActive",
+					"value": "true",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "激活禁用用户",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504169015185,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "0cd98b87-4be6-2e0e-f3c9-31ff6bfc8fcc",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/role/report/level/count/yesterday",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查询截止到今天凌晨0点的层级数/v1/role/report/level/count/yesterday",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504523392009,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "121d4a84-4e79-e2c8-c5ca-5024d2f0df9c",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/role/remove?roleId=24",
+			"queryParams": [
+				{
+					"key": "roleId",
+					"value": "24",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "删除角色/v1/role/remove?roleId=24",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1506580996694,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "18782706-84c2-6ef0-c05b-7a0ae84b1a59",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/role/child/tree?roleId=3",
+			"queryParams": [
+				{
+					"key": "roleId",
+					"value": "3",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查询单个角色详情 /v1/role/child/tree?roleId=3",
+			"description": "含是否有子集",
+			"descriptionFormat": "html",
+			"time": 1505869690444,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "1c7c801d-05a6-ff6c-5a10-4d00aff48435",
+			"headers": "X-Feign-Key: {\"productId\":\"BW\",\"tenantId\":\"T001117\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"productId\":\"BW\",\"tenantId\":\"T001117\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/introduce/addDefaultIntroduce?lang=zh-CN",
+			"queryParams": [
+				{
+					"key": "lang",
+					"value": "zh-CN",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "生成默认TW推广链接/v1/user/introduce/addDefaultIntroduce?lang=zh-CN",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505374179595,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"tenantId\": null,\r\n    \"id\": null,\r\n    \"creator\": null,\r\n    \"createTime\": null,\r\n    \"entityNo\": null,\r\n    \"platform\": null,\r\n    \"name\": null,\r\n    \"type\": null,\r\n    \"bwUserShow\": null,\r\n    \"visibleUser\": null,\r\n    \"visibleUserName\": null,\r\n    \"url\": \"baoying.tamsc.lwork.com\",\r\n    \"displayUrl\": null,\r\n    \"qrCode\": null,\r\n    \"parameterType\": null,\r\n    \"serverId\": null,\r\n    \"vendor\": null,\r\n    \"mtGroup\": null,\r\n    \"accountGroup\": null,\r\n    \"leverage\": null,\r\n    \"ownerType\": null,\r\n    \"ownerId\": null,\r\n    \"ownerName\": null,\r\n    \"businessCode\": null,\r\n    \"os\": null,\r\n    \"softwarePackage\": null\r\n}"
+		},
+		{
+			"id": "1d1ab269-c2e6-776e-3967-91727e3a3435",
+			"headers": "X-Feign-Key: {\"productId\":\"BW\",\"tenantId\":\"T001117\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"productId\":\"BW\",\"tenantId\":\"T001117\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/introduce/addDefaultAgentIntroduce?lang=zh-CN",
+			"queryParams": [
+				{
+					"key": "lang",
+					"value": "zh-CN",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "生成默认代理推广链接/v1/user/introduce/addDefaultAgentIntroduce?lang=zh-CN",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505373838636,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"tenantId\": null,\r\n    \"id\": null,\r\n    \"creator\": null,\r\n    \"createTime\": null,\r\n    \"entityNo\": null,\r\n    \"platform\": null,\r\n    \"name\": null,\r\n    \"type\": null,\r\n    \"bwUserShow\": null,\r\n    \"visibleUser\": null,\r\n    \"visibleUserName\": null,\r\n    \"url\": \"bwmj4ibr.btmsc.lwork.com\",\r\n    \"displayUrl\": null,\r\n    \"qrCode\": null,\r\n    \"parameterType\": null,\r\n    \"serverId\": null,\r\n    \"vendor\": null,\r\n    \"mtGroup\": null,\r\n    \"accountGroup\": null,\r\n    \"leverage\": null,\r\n    \"ownerType\": null,\r\n    \"ownerId\": null,\r\n    \"ownerName\": null,\r\n    \"businessCode\": null,\r\n    \"os\": null,\r\n    \"softwarePackage\": null\r\n}"
+		},
+		{
+			"id": "20be54fa-5049-e91d-2448-6ce2ba098bb6",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/search/edit",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "编辑（更新）自定义搜索/v1/user/search/edit",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505786491079,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"searchId\": \"f8614045-1125-4321-8cb7-2c525320d80f\",\r\n    \"tenantId\": \"T001117\",\r\n    \"roleIds\": null,\r\n    \"roleNames\": null,\r\n    \"name\": \"测试高级搜索\",\r\n    \"condition\": [\r\n        {\r\n            \"field\": \"email\",\r\n            \"value\": \"343787567@qq.com\",\r\n            \"opt\": \"EQ\"\r\n        },\r\n        {\r\n            \"field\": \"phones\",\r\n            \"value\": \"139238771963\",\r\n            \"opt\": \"EQ\"\r\n        }\r\n    ],\r\n    \"logicType\": \"AND\",\r\n    \"searchType\": \"BW_CUSTOMER\",\r\n    \"searchLevel\": \"TENANT\",\r\n    \"createUserId\": null,\r\n    \"modifyUserId\": null,\r\n    \"createTime\": null,\r\n    \"modifyTime\": null\r\n}"
+		},
+		{
+			"id": "2162d327-c768-545c-c8b3-68e0690099c7",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "",
+					"value": "",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/tree/child?userId=&module=User",
+			"queryParams": [
+				{
+					"key": "userId",
+					"value": "",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "module",
+					"value": "User",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查询用户tree信息/v1/user/tree/child?userId=&module=User",
+			"description": "查询rootTreeNode（userId为空）/v1/user/tree/child?userId=&module=User\n查询某个用户的子treeNode /v1/user/tree/child?userId=4&module=User",
+			"descriptionFormat": "html",
+			"time": 1504786500487,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "23b71a0b-02d2-3e23-5ee1-32d2ca9eed8f",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/role/report/role/count/yesterday",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1504524943851,
+			"name": "查询截止到今天凌晨0点的角色数/v1/role/report/role/count/yesterday",
+			"description": "",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"responses": []
+		},
+		{
+			"id": "2435dff4-bf15-3892-359f-39e515a358f4",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/role/list",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": null,
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1505468553357,
+			"name": "查询role列表，输出只有id、name、entityNo/v1/role/list",
+			"description": "查询role列表，输出只有id、name、entityNo",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"responses": []
+		},
+		{
+			"id": "3023428e-3847-b8cf-6572-45c4548e69c5",
+			"headers": "X-Feign-Key: {\"clientIp\":\"125.71.132.36\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"language\":\"zh-CN\",\"productId\":\"BW\",\"tenantId\":\"T001117\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"125.71.132.36\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"language\":\"zh-CN\",\"productId\":\"BW\",\"tenantId\":\"T001117\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/introduce/hit/add",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "添加推广链接点击信息/v1/user/introduce/hit/add",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505375782853,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"url\": \"http://broker.btmsc.lwork.com/agentApply\",\r\n    \"introduceId\": \"83WEp0BZ\",\r\n    \"userId\": null,\r\n    \"tenantId\": \"T001117\",\r\n    \"clientIp\": \"125.71.132.36\",\r\n    \"device\": \"pc\",\r\n    \"time\": 1505375619123\r\n}"
+		},
+		{
+			"id": "34ef0f7b-fd7b-ff22-658f-40f09532c8f2",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/introduce/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "批量删除推广链接/v1/user/introduce/delete",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1506580646200,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "[\"175\"]"
+		},
+		{
+			"id": "35ea0f60-eec9-6a81-3ae7-96b3173f4c4c",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/introduce/list/simple",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查看introduce简单列表/v1/user/introduce/list/simple",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505288994751,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "37854d4b-70e5-e449-d02f-35f8e9ec5617",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": ""
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/exists?value=nature_test%40lwork.com&key=email",
+			"queryParams": [
+				{
+					"key": "value",
+					"value": "nature_test%40lwork.com",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "key",
+					"value": "email",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "查询email是否已存在",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504168567890,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": ""
+		},
+		{
+			"id": "38cdfa22-c363-c91f-6e5a-aefa9975e161",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/introduce/addIntroduce",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "新增Introduce信息/v1/user/introduce/addIntroduce",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505293011274,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"tenantId\": null,\r\n    \"id\": null,\r\n    \"creator\": null,\r\n    \"createTime\": null,\r\n    \"entityNo\": null,\r\n    \"platform\": \"Web\",\r\n    \"name\": \"百度推广2\",\r\n    \"enable\": null,\r\n    \"type\": \"Agent\",\r\n    \"bwUserShow\": \"UserAllVisible\",\r\n    \"visibleUser\": [],\r\n    \"visibleUserName\": [],\r\n    \"url\": null,\r\n    \"displayUrl\": null,\r\n    \"qrCode\": null,\r\n    \"parameterType\": null,\r\n    \"serverId\": null,\r\n    \"vendor\": null,\r\n    \"mtGroup\": null,\r\n    \"accountGroup\": null,\r\n    \"leverage\": null,\r\n    \"ownerType\": null,\r\n    \"ownerId\": null,\r\n    \"ownerName\": null,\r\n    \"businessCode\": null,\r\n    \"os\": null,\r\n    \"softwarePackage\": null\r\n}"
+		},
+		{
+			"id": "3f859676-d207-f8ac-067f-d0466fd1756f",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/role/upsert?parentId=1",
+			"queryParams": [
+				{
+					"key": "parentId",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "增加修改role/v1/role/upsert?parentId=1",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504662006865,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"id\": 20,\r\n    \"entityNo\": null,\r\n    \"name\": \"系统管理员nature\",\r\n    \"rightIds\": [\r\n        347,\r\n        348,\r\n        349\r\n    ],\r\n    \"comment\": null\r\n}"
+		},
+		{
+			"id": "47810cbf-d19c-8ab5-f9ff-58bdcc1e534a",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/search/list?searchType=BW_CUSTOMER&searchLevel=TENANT",
+			"queryParams": [
+				{
+					"key": "searchType",
+					"value": "BW_CUSTOMER",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "searchLevel",
+					"value": "TENANT",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "获取自定义搜索列表/v1/user/search/list?searchType=BW_CUSTOMER&searchLevel=TENANT",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505469114065,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "4d6fa587-f470-b4e6-f05f-646103e77caa",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/introduce/switch?introduceId=175",
+			"queryParams": [
+				{
+					"key": "introduceId",
+					"value": "175",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "切换推广链接启用状态/v1/user/introduce/switch?introduceId=175",
+			"description": "禁用启用",
+			"descriptionFormat": "html",
+			"time": 1506579070527,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "539fe48b-92be-0ce6-dc2e-23022e439755",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/findLikeName/hasRight",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "模糊搜索查询权限范围内的用户列表/v1/user/findLikeName/hasRight",
+			"description": "模糊搜索查询权限范围内的用户列表，包括用户名、角色名、层级名任意一个匹配（有权限过滤）",
+			"descriptionFormat": "html",
+			"time": 1505907019424,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\"fuzzyValue\":\"na\",\"searchUser\":true,\"searchRole\":true,\"searchLevel\":true}"
+		},
+		{
+			"id": "5547e582-1c8b-7793-47bb-4540cc48390e",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/introduce/findByKey/83WEp0BZ/entityNo",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "根据key和values查询introduce列表/v1/user/introduce/findByKey/83WEp0BZ/entityNo",
+			"description": "entityNo为key，是变量（entityNo,name,id)\n83WEp0BZ为values,是变量列表，逗号分隔urlEncode",
+			"descriptionFormat": "html",
+			"time": 1505289697576,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "55f73b48-8663-a632-3e9c-f28db71c71df",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": ""
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/level/list",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查询level列表/v1/level/list",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504259530513,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "560511db-19b3-4438-3347-a1fba4553078",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/list/type?type=1&id=0&includeParent=true",
+			"queryParams": [
+				{
+					"key": "type",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "id",
+					"value": "0",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "includeParent",
+					"value": "true",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "根据返佣层级或角色ID查询相关用户信息/v1/user/list/type?type=1&id=0&includeParent=true",
+			"description": "根据返佣层级或角色ID查询相关用户信息（层级查询支持包含上级层级用户）",
+			"descriptionFormat": "html",
+			"time": 1506578829921,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "56c811ce-0bae-aa06-51ab-0a0812549307",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/listAll",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查询全量用户详细信息/v1/user/listAll",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505869457178,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "5de96f3e-279a-84f7-2196-7797bbb96a58",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/search/add",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1505468512832,
+			"name": "新增自定义搜索/v1/user/search/add",
+			"description": "",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"responses": [],
+			"rawModeData": "{\r\n    \"searchId\": null,\r\n    \"tenantId\": null,\r\n    \"roleIds\": null,\r\n    \"roleNames\": null,\r\n    \"name\": \"测试高级搜索nature\",\r\n    \"condition\": [\r\n        {\r\n            \"field\": \"email\",\r\n            \"value\": \"343787567@qq.com\",\r\n            \"opt\": \"EQ\"\r\n        }\r\n    ],\r\n    \"logicType\": \"AND\",\r\n    \"searchType\": \"BW_CUSTOMER\",\r\n    \"searchLevel\": \"TENANT\",\r\n    \"createUserId\": null,\r\n    \"modifyUserId\": null,\r\n    \"createTime\": null,\r\n    \"modifyTime\": null\r\n}"
+		},
+		{
+			"id": "6332929c-090a-23a9-2963-7a3e2e4bb2ee",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/list/type/fuzzy?id=4&type=1&includeParent=true",
+			"queryParams": [
+				{
+					"key": "id",
+					"value": "4",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "includeParent",
+					"value": "true",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "根据返佣层级或角色ID模糊查询查询相关用户信息/v1/user/list/type/fuzzy?id=4&type=1&includeParent=true",
+			"description": "层级查询支持包含上级层级用户",
+			"descriptionFormat": "html",
+			"time": 1505129870959,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\"fuzzyValue\":null}"
+		},
+		{
+			"id": "63e42ab4-c289-6246-4797-07d4be8f9f41",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/list",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "根据条件查询用户的详情信息/v1/user/list",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505097742624,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"tenantId\": null,\r\n    \"startDate\": 946656000000,\r\n    \"endDate\": 1503417599999,\r\n    \"pageNo\": 1,\r\n    \"size\": 20,\r\n    \"sortby\": \"createDate\",\r\n    \"orderDesc\": true,\r\n    \"levelId\": 0,\r\n    \"queryType\": \"NAME\",\r\n    \"queryContent\": \"\",\r\n    \"userSearchType\": \"allSee\",\r\n    \"userId\": null\r\n}"
+		},
+		{
+			"id": "66cb13d5-0c98-9cb6-816f-9dd78d739515",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/list/noparent/id",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1506479790688,
+			"name": "查询无parent的用户id/v1/user/list/noparent/ide",
+			"description": "",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"responses": []
+		},
+		{
+			"id": "735dbcc1-fb8f-9453-706a-26803b9ebd67",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/level/list/byAuthority",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1504263415045,
+			"name": "根据用户权限查询Level列表/v1/level/list/byAuthority",
+			"description": "",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"responses": []
+		},
+		{
+			"id": "781ad7e5-47d5-9dba-8b87-312cb891b833",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "",
+					"value": "",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/role/listDetail",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "获取全量role信息（含rightID列表）/v1/role/listDetail",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504522965032,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "79d36533-9399-13c6-6411-40d4a368a3f3",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/right/initRight",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "初始化权限树/v1/right/initRight",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505787539272,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "7a7a8fa1-ec78-27f4-44d8-aed5211f069d",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/msgReceiversQuery",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "模糊查询角色和用户/v1/user/msgReceiversQuery",
+			"description": "模糊查询角色，目前按名称，编号查询\n模糊查询用户，目前按邮箱，名称，用户名，编号查询",
+			"descriptionFormat": "html",
+			"time": 1505785096046,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"tenantId\": null,\r\n    \"fuzzyVal\": \"a\",\r\n    \"receiverType\": \"BwUser\",\r\n    \"type\": \"WEB\"\r\n}"
+		},
+		{
+			"id": "7be9a612-0c17-ccc4-936b-94728aa17136",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v2/user/updateUser",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1505789365195,
+			"name": "更新用户V2 /v2/user/updateUser",
+			"description": "",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"responses": [],
+			"rawModeData": "{\r\n    \"id\": 266,\r\n    \"name\": \"test11\",\r\n    \"username\": null,\r\n    \"email\": \"nature_test1039@1work.com\",\r\n    \"phone\": \"+86@-@15202864351\",\r\n    \"entityNo\": \"J5NO\",\r\n    \"roleId\": \"16\",\r\n    \"roleName\": \"test\",\r\n    \"levelId\": \"0\",\r\n    \"levelName\": null,\r\n    \"parent\": null,\r\n    \"parentName\": null,\r\n    \"password\": \"Abse234562\",\r\n    \"comment\": \"1111\",\r\n    \"nickname\": null,\r\n    \"headImage\": null,\r\n    \"birthday\": null,\r\n    \"address\": \"四川省广元市宝轮镇石龙一组\",\r\n    \"tenantId\": null,\r\n    \"pubUserId\": \"2c2d4d1e-0ed7-44ab-9de2-be0753ce7437\",\r\n    \"country\": \"1\",\r\n    \"province\": \"2283\",\r\n    \"city\": \"2284\",\r\n    \"postcode\": null,\r\n    \"createDate\": 1494474230000,\r\n    \"modifyDate\": 1494993203000,\r\n    \"sex\": null,\r\n    \"subUserCount\": 0,\r\n    \"active\": 1,\r\n    \"login\": \"123\",\r\n    \"vendorServerId\": \"MT4_428\",\r\n    \"sendEmail\": null,\r\n    \"needInitPass\": false,\r\n    \"commission\": {\r\n        \"list\": [],\r\n        \"levelId\": 0,\r\n        \"parentId\": 0,\r\n        \"userId\": 0\r\n    },\r\n    \"ipWhiteBlackDTO\": [],\r\n    \"region\": {\r\n        \"country\": \"1\",\r\n        \"province\": \"2283\",\r\n        \"city\": \"2284\"\r\n    },\r\n    \"phones\": {\r\n        \"phone\": \"15202864351\",\r\n        \"countryCode\": \"+86\",\r\n        \"phoneStr\": \"+86 15202864351\"\r\n    },\r\n    \"lang\": null,\r\n    \"ownerType\": \"noParent\",\r\n    \"messageCode\": null\r\n}"
+		},
+		{
+			"id": "7f283921-e691-8e9e-2b29-6cb6311c9507",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/role/roleId/right/id?roleId=1",
+			"queryParams": [
+				{
+					"key": "roleId",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "根据一个RoleId获取其权限ID列表/v1/role/roleId/right/id?roleId=1",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505869848983,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "7f741407-0c5d-ad26-5c55-4c14a023cb0d",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/introduce/qrcode?isCurrentUserUrl=true&introduceId=60",
+			"queryParams": [
+				{
+					"key": "isCurrentUserUrl",
+					"value": "true",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "introduceId",
+					"value": "60",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "生成推广二维码并保存到阿里云/v1/user/introduce/qrcode?isCurrentUserUrl=true&introduceId=60",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505806609902,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "7fa6a244-dad1-c45b-8d97-2b361aaceaf9",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": ""
+				}
+			],
+			"url": "http://47.90.65.57:8091//v1/user/listByIds",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "查询用户信息/v1/user/listByIds",
+			"description": "查询用户信息",
+			"descriptionFormat": "html",
+			"time": 1504085396205,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "[233]"
+		},
+		{
+			"id": "8031fa4b-576f-77de-5228-85425421175b",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/bypubUser?pubUserId=6bf1b68e-3863-4624-b716-925cd3b00a8a",
+			"queryParams": [
+				{
+					"key": "pubUserId",
+					"value": "6bf1b68e-3863-4624-b716-925cd3b00a8a",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "根据pubUserId获取用户信息/v1/user/bypubUser",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504609945541,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "85e7eff1-a2dd-5d23-addf-a3c764663e26",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/current/child/direct/id",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查询当前用户直属下级用户/v1/user/current/child/direct/id",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504691413858,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "868c9c94-6bd3-59f2-36ac-c4b94b27ac8a",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/introduce/list?type=Web",
+			"queryParams": [
+				{
+					"key": "type",
+					"value": "Web",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查看introduce详细列表/v1/user/introduce/list?type=Web",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505289468598,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "870e9615-4461-b957-2562-b50b7382e25b",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/updateParentBatch?parentId=4",
+			"queryParams": [
+				{
+					"key": "parentId",
+					"value": "4",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "批量归属parent http://47.90.65.57:8091/v1/user/updateParentBatch?parentId=4",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505908252002,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "[230,235]"
+		},
+		{
+			"id": "875934c6-ec46-7632-a402-cb5ce2718a30",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/listByIdsAndRoles",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "根据用户id和角色查询用户,两结果取并集/v1/user/listByIdsAndRoles",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505127034484,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"pubUserIds\": [\r\n        \"6bf1b68e-3863-4624-b716-925cd3b00a8a\",\r\n        \"5c2d4c1d-fbf2-4a95-b15f-8e1d1cad5220\",\r\n        \"873a31c9-945e-4e4d-892b-88463534689a\",\r\n        \"687af825-df0a-4393-a9b8-2802a682aea5\",\r\n        \"d5c8ace5-43a9-47b5-a8d7-709a2777b223\",\r\n        \"f4a29d2b-defc-4ddc-b5ec-2a831f782d35\",\r\n        \"cff87e57-ae73-46f9-8037-f9b95edb5b88\",\r\n        \"40b8a8a8-b9d4-4f81-9b4b-f7337b9990bb\",\r\n        \"33819f25-66cd-40fc-9dda-9aa80cc370c9\"\r\n    ],\r\n    \"roles\": null\r\n}"
+		},
+		{
+			"id": "89443f89-505e-4f66-4837-ee10707800b2",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/introduce/update",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "更新introduce推广链接/v1/user/introduce/update",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1506592434610,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"tenantId\": null,\r\n    \"id\": 174,\r\n    \"creator\": null,\r\n    \"createTime\": null,\r\n    \"entityNo\": null,\r\n    \"platform\": \"Web\",\r\n    \"name\": \"百度推广2\",\r\n    \"enable\": null,\r\n    \"type\": \"Agent\",\r\n    \"bwUserShow\": \"UserAllVisible\",\r\n    \"visibleUser\": [],\r\n    \"visibleUserName\": [],\r\n    \"url\": null,\r\n    \"displayUrl\": null,\r\n    \"qrCode\": null,\r\n    \"parameterType\": null,\r\n    \"serverId\": null,\r\n    \"vendor\": null,\r\n    \"mtGroup\": null,\r\n    \"accountGroup\": null,\r\n    \"leverage\": null,\r\n    \"ownerType\": null,\r\n    \"ownerId\": null,\r\n    \"ownerName\": null,\r\n    \"businessCode\": null,\r\n    \"os\": null,\r\n    \"softwarePackage\": null\r\n}"
+		},
+		{
+			"id": "980a19e1-ef0f-4d5e-8340-37c1cbcd4e4b",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/list/userId/childIds?userId=4&execBelong=false",
+			"queryParams": [
+				{
+					"key": "userId",
+					"value": "4",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "execBelong",
+					"value": "false",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查询下级用户信息/v1/user/list/userId/childIds?userId=4&execBelong=false",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1506336795342,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "98f47917-5906-329c-c718-525a6ad2ecce",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": ""
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/role/findCurrentSetRole",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "当前用户可以在新增/修改用户时设置的角色信息/v1/role/findCurrentSetRole",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504263657225,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "9d881ae8-57d1-d6e5-e526-3a341a26e84d",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/search/byId?id=9d6272d4-5665-4ea9-a2c3-de6ef693fb4a",
+			"queryParams": [
+				{
+					"key": "id",
+					"value": "9d6272d4-5665-4ea9-a2c3-de6ef693fb4a",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1505467996953,
+			"name": "获取自定义搜索详情/v1/user/search/byId?id=9d6272d4-5665-4ea9-a2c3-de6ef693fb4a",
+			"description": "",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"responses": []
+		},
+		{
+			"id": "a2a2b533-cdb9-2356-8164-de8c8ca54bdf",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/listUserAndLevel",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查询所有用户的简单信息/v1/user/listUserAndLevel",
+			"description": "（含id,name,parent,levelId,levelName,roleId,roleName,entityNo,pubUserId,login,vendorServerId）",
+			"descriptionFormat": "html",
+			"time": 1504784670273,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "a92da5ef-63d5-72b7-0361-9d46427faf6f",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/addAdminUser?email=nature_test101%40lwork.com&name=Admin_nature&password=Abcd1234&language=zh-CN",
+			"queryParams": [
+				{
+					"key": "email",
+					"value": "nature_test101%40lwork.com",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "Admin_nature",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "Abcd1234",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "language",
+					"value": "zh-CN",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "增加Admin用户/v1/user/addAdminUser?email=nature_test101%40lwork.com&name=Admin_nature&password=Abcd1234&language=zh-CN",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504694438293,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "a94dc951-65df-0ae9-7531-e925c8f02d16",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"2c2d4d1e-0ed7-44ab-9de2-be0753ce7437\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"2c2d4d1e-0ed7-44ab-9de2-be0753ce7437\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/updateCurrentUser",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1505294563131,
+			"name": "更新当前用户/v1/user/updateCurrentUser",
+			"description": "",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"responses": [],
+			"rawModeData": " {\n            \"id\": 233,\n            \"entityNo\": \"ZJ3L\",\n            \"createDate\": 1503627036000,\n            \"modifyDate\": 1503890573000,\n            \"tenantId\": \"\",\n            \"productId\": \"BW\",\n            \"createUserId\": \"873a31c9-945e-4e4d-892b-88463534689a\",\n            \"modifyUserId\": \"\",\n            \"modelStatus\": \"CREATE\",\n            \"name\": \"name1234\",\n            \"username\": \"\",\n            \"email\": \"steven_test3@qq.com\",\n            \"phone\": \"+86@-@111112\",\n            \"address\": \"ffffffff\",\n            \"country\": \"3225\",\n            \"province\": \"7045\",\n            \"city\": \"3227\",\n            \"postcode\": \"\",\n            \"roleId\": \"11\",\n            \"roleName\": \"莫小贝\",\n            \"levelId\": \"13\",\n            \"levelName\": \"989800\",\n            \"parent\": \"4\",\n            \"sex\": \"\",\n            \"vendorServerId\": \"MT4_429\",\n            \"password\": \"\",\n            \"comment\": \"ggggggggg\",\n            \"nickname\": \"\",\n            \"headImage\": \"\",\n            \"birthday\": \"\",\n            \"pubUserId\": \"74c47e8f-6b01-4c01-ba25-568e03acfc42\",\n            \"SubUserCount\": 0,\n            \"version\": 29,\n            \"active\": 1,\n            \"login\": \"123\",\n            \"needInitPass\": false,\n            \"region\": {\n                \"country\": \"3225\",\n                \"province\": \"7045\",\n                \"city\": \"3227\"\n            },\n            \"phones\": {\n                \"phone\": \"111112\",\n                \"countryCode\": \"+86\",\n                \"phoneStr\": \"+86 111112\"\n            },\n            \"ipWhiteBlacks\": null\n        }"
+		},
+		{
+			"id": "aa9e477e-b830-7816-bb0f-86235d9cf4a7",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/introduce/detail?introduceId=40&statistic=true",
+			"queryParams": [
+				{
+					"key": "introduceId",
+					"value": "40",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "statistic",
+					"value": "true",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "单个introduce统计信息/v1/user/introduce/detail?introduceId=40&statistic=true",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1506390362924,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "abdd11e1-e454-b4c8-568a-ffd84751f3c6",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/listSimpleUser",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查询所有用户的简单信息（含Iid，name，entityNo）/v1/user/listSimpleUser",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504692399548,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "b0195fd6-e7ba-5819-3dec-ccc9ca1e8ab2",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/findSimpleByPage",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "根据条件查询用户的简单信息/v1/user/findSimpleByPage",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505096153087,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"tenantId\": null,\r\n    \"startDate\": 0,\r\n    \"endDate\": 0,\r\n    \"pageNo\": 1,\r\n    \"size\": 10,\r\n    \"sortby\": null,\r\n    \"orderDesc\": false,\r\n    \"levelId\": 0,\r\n    \"queryType\": \"NAME\",\r\n    \"queryContent\": \"t\",\r\n    \"userSearchType\": null,\r\n    \"userId\": null\r\n}"
+		},
+		{
+			"id": "b410cef9-ba7c-fa7b-95af-bb4deeb185c5",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/fields/list?tableName=t_user_profiles",
+			"queryParams": [
+				{
+					"key": "tableName",
+					"value": "t_user_profiles",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "用户信息列表项查询/v1/user/fields/list?tableName=t_user_profiles",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1506504019816,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "c1b38e37-95f0-9f80-7fb7-23d8a9a62d80",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/role/listSimpleHasRight?rightEntityNo=TASK",
+			"queryParams": [
+				{
+					"key": "rightEntityNo",
+					"value": "TASK",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查询具体权限的角色信息/v1/role/listSimpleHasRight?rightEntityNo=TASK",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504610082956,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "c1be851b-c0d3-46e2-2250-bdb92702b714",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/countTenat",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查询用户总数/v1/user/countTenat",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504784381138,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "c363540e-8010-89a9-87de-2df3e58d6727",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/findSimpleByKeyAndType?key=1&type=id",
+			"queryParams": [
+				{
+					"key": "key",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "id",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查询一个用户的简单信息/v1/user/findSimpleByKeyAndType?key=1&type=id",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505093777660,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "c713d0ff-3242-79c9-e1ff-7d10f7b2fa39",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/role/currentRight",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "当前用户角色具有的权限集合/v1/role/currentRight",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504523103288,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "c8df9854-f809-4c68-d334-e070ddbeb571",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/permission/check/111?module=Account",
+			"queryParams": [
+				{
+					"key": "module",
+					"value": "Account",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1506389542117,
+			"name": "根据模块检查指定用户ID是否在权限范围内/v1/user/permission/check/4?module=Account",
+			"description": "",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"responses": []
+		},
+		{
+			"id": "caecf507-eb56-b164-c0ad-dcc2fd06b71d",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091//v2/user/add?domain=http%3A%2F%2Fbroker.btmsc.lwork.com%3A80",
+			"queryParams": [
+				{
+					"key": "domain",
+					"value": "http%3A%2F%2Fbroker.btmsc.lwork.com%3A80",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1505294213994,
+			"name": "添加用户/v2/user/add",
+			"description": "添加用户",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"responses": [],
+			"rawModeData": "{\r\n    \"id\": null,\r\n    \"name\": \"nature_test3\",\r\n    \"username\": null,\r\n    \"email\": \"nature_test3@lwork.com\",\r\n    \"phone\": null,\r\n    \"entityNo\": null,\r\n    \"roleId\": \"13\",\r\n    \"roleName\": null,\r\n    \"levelId\": \"3\",\r\n    \"levelName\": null,\r\n    \"parent\": 4,\r\n    \"parentName\": null,\r\n    \"password\": \"Abcd1234\",\r\n    \"comment\": \"无\",\r\n    \"nickname\": null,\r\n    \"headImage\": null,\r\n    \"birthday\": null,\r\n    \"address\": \"高新区\",\r\n    \"tenantId\": null,\r\n    \"pubUserId\": null,\r\n    \"country\": \"1\",\r\n    \"province\": \"2283\",\r\n    \"city\": \"2284\",\r\n    \"postcode\": null,\r\n    \"createDate\": null,\r\n    \"modifyDate\": null,\r\n    \"sex\": null,\r\n    \"subUserCount\": null,\r\n    \"active\": 1,\r\n    \"login\": null,\r\n    \"vendorServerId\": \"MT4_429\",\r\n    \"sendEmail\": true,\r\n    \"needInitPass\": true,\r\n    \"commission\": {\r\n        \"list\": [\r\n            {\r\n                \"ruleId\": 6,\r\n                \"ruleType\": null,\r\n                \"name\": null,\r\n                \"detailId\": 78,\r\n                \"commissionValue\": null,\r\n                \"maxCommissionValue\": null,\r\n                \"unit\": null,\r\n                \"values\": null,\r\n                \"oldValue\": null\r\n            },\r\n            {\r\n                \"ruleId\": 7,\r\n                \"ruleType\": null,\r\n                \"name\": null,\r\n                \"detailId\": 79,\r\n                \"commissionValue\": null,\r\n                \"maxCommissionValue\": null,\r\n                \"unit\": null,\r\n                \"values\": null,\r\n                \"oldValue\": null\r\n            },\r\n            {\r\n                \"ruleId\": 11,\r\n                \"ruleType\": null,\r\n                \"name\": null,\r\n                \"detailId\": 80,\r\n                \"commissionValue\": null,\r\n                \"maxCommissionValue\": null,\r\n                \"unit\": null,\r\n                \"values\": null,\r\n                \"oldValue\": null\r\n            },\r\n            {\r\n                \"ruleId\": 12,\r\n                \"ruleType\": null,\r\n                \"name\": null,\r\n                \"detailId\": 81,\r\n                \"commissionValue\": null,\r\n                \"maxCommissionValue\": null,\r\n                \"unit\": null,\r\n                \"values\": null,\r\n                \"oldValue\": null\r\n            }\r\n        ],\r\n        \"levelId\": 0,\r\n        \"parentId\": 0,\r\n        \"userId\": 0\r\n    },\r\n    \"ipWhiteBlackDTO\": [],\r\n    \"region\": {\r\n        \"country\": \"1\",\r\n        \"province\": \"2283\",\r\n        \"city\": \"2284\"\r\n    },\r\n    \"phones\": {\r\n        \"phone\": \"13212345678\",\r\n        \"countryCode\": \"+86\",\r\n        \"phoneStr\": \"+86 13212345678\"\r\n    },\r\n    \"lang\": null,\r\n    \"ownerType\": null,\r\n    \"messageCode\": null\r\n}"
+		},
+		{
+			"id": "ccb9619e-3ad6-f492-abe4-2b22b1db302b",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"cfaecca0-777e-446d-a6ee-1fedd4397313\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"cfaecca0-777e-446d-a6ee-1fedd4397313\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/simpleUserAccRight?name=na",
+			"queryParams": [
+				{
+					"key": "name",
+					"value": "na",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "返佣账户查询/v1/user/simpleUserAccRight?name=na",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505907720010,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "d2afd147-3242-b9db-1934-3e4a1a76883d",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/introduce/myIntroduces",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "我的推广链接/v1/user/introduce/myIntroduces",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505374312549,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "d56fd6ac-0539-f0d8-394d-34efb1434fbc",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/search/delete/956b4a3a-ca24-4b63-99da-9fee2c5f5325",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "删除自定义搜索/v1/user/search/delete/956b4a3a-ca24-4b63-99da-9fee2c5f5325",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505785583196,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "de4f873f-5c2b-5ec7-58b5-4af2631bd786",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/findByKey/22%2C11%2C12%2C13%2C14%2C15%2C17%2C18%2C19%2C3%2C4%2C6%2C7%2C72%2C73%2C40%2C53%2C20%2C10%2C21/id",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "根据keyType查询属于keyValue的用户详细信息/findByKey/:keyValue/:keyType",
+			"description": "根据keyType（email,id,name,entityNo,login,roleId,levelId），查询value属于keyValue的用户详细信息",
+			"descriptionFormat": "html",
+			"time": 1504691677276,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "e42681f3-83eb-6b88-1051-371c7ed4711e",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "删除用户/v1/user/delete",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504170252227,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "[267,268]"
+		},
+		{
+			"id": "e56b0ed2-c427-ce68-7ca8-79a4208bc587",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/report/introduce/count/yesterday",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查询截止到今天凌晨0点的introduce数/v1/user/report/introduce/count/yesterday",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505290024887,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "e587dfe5-38ee-6a3b-1c41-0d48876636f8",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/report/count/yesterday",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查询截止到今天凌晨0点的用户数/v1/user/report/count/yesterday",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504784495358,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "e99ee24b-a105-6cac-4c81-84f1d3a49e1c",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/right/listTopRights",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "获取无上级的权限，结果集包括child /v1/right/listTopRights",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504522616933,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "e9eba611-a3c8-34e6-7436-e86cf9e4c2c8",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/search/dropdown?searchType=BW_CUSTOMER&searchLevel=TENANT",
+			"queryParams": [
+				{
+					"key": "searchType",
+					"value": "BW_CUSTOMER",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "searchLevel",
+					"value": "TENANT",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1505468918642,
+			"name": "获取自定义搜索列下拉菜单/v1/user/search/dropdown",
+			"description": "",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"responses": []
+		},
+		{
+			"id": "ed14e53f-128e-3378-6884-06a75e268139",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/findSimpleByPage/hasRight",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "根据条件查询用户的简单信息，有权限过滤/v1/user/findSimpleByPage/hasRight",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505464428364,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"tenantId\": null,\r\n    \"startDate\": 0,\r\n    \"endDate\": 0,\r\n    \"pageNo\": 0,\r\n    \"size\": 10,\r\n    \"sortby\": null,\r\n    \"orderDesc\": false,\r\n    \"levelId\": 0,\r\n    \"queryType\": \"NAME\",\r\n    \"queryContent\": \"s\",\r\n    \"userSearchType\": \"allSee\",\r\n    \"userId\": null\r\n}"
+		},
+		{
+			"id": "ed3c183c-2535-8fac-587d-aecf48b029a4",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"6bf1b68e-3863-4624-b716-925cd3b00a8a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"6bf1b68e-3863-4624-b716-925cd3b00a8a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/updateUser",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "更新用户V1 /v1/user/updateUser",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505300391821,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"id\": 266,\r\n    \"name\": \"test11\",\r\n    \"username\": null,\r\n    \"email\": \"nature_test1009@1work.com\",\r\n    \"phone\": \"+86@-@15202864358\",\r\n    \"entityNo\": \"J5NO\",\r\n    \"roleId\": \"16\",\r\n    \"roleName\": \"test\",\r\n    \"levelId\": \"0\",\r\n    \"levelName\": null,\r\n    \"parent\": null,\r\n    \"parentName\": null,\r\n    \"password\": \"Abse234562\",\r\n    \"comment\": \"1111\",\r\n    \"nickname\": null,\r\n    \"headImage\": null,\r\n    \"birthday\": null,\r\n    \"address\": \"四川省广元市宝轮镇石龙一组\",\r\n    \"tenantId\": null,\r\n    \"pubUserId\": \"859535b7-76d6-4a2b-b561-961eade8a801\",\r\n    \"country\": \"1\",\r\n    \"province\": \"2283\",\r\n    \"city\": \"2284\",\r\n    \"postcode\": null,\r\n    \"createDate\": 1494474230000,\r\n    \"modifyDate\": 1494993203000,\r\n    \"sex\": null,\r\n    \"subUserCount\": 0,\r\n    \"active\": 1,\r\n    \"login\": \"123\",\r\n    \"vendorServerId\": \"MT4_428\",\r\n    \"sendEmail\": null,\r\n    \"needInitPass\": false,\r\n    \"commission\": {\r\n        \"list\": [],\r\n        \"levelId\": 0,\r\n        \"parentId\": 0,\r\n        \"userId\": 0\r\n    },\r\n    \"ipWhiteBlackDTO\": [],\r\n    \"region\": {\r\n        \"country\": \"1\",\r\n        \"province\": \"2283\",\r\n        \"city\": \"2284\"\r\n    },\r\n    \"phones\": {\r\n        \"phone\": \"15202864358\",\r\n        \"countryCode\": \"+86\",\r\n        \"phoneStr\": \"+86 15202864358\"\r\n    },\r\n    \"lang\": null,\r\n    \"ownerType\": \"noParent\",\r\n    \"messageCode\": null\r\n}"
+		},
+		{
+			"id": "ee9c0d0b-6198-de2f-0fe3-9873da51748c",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/findUserByField",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "模糊搜索查询用户指定字段值（有权限过滤）http://47.90.65.57:8091/v1/user/findUserByField",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505870112141,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"fuzzyValue\": \"U\",\r\n    \"fieldType\": [\r\n        \"name\",\r\n        \"entityNo\"\r\n    ]\r\n}"
+		},
+		{
+			"id": "f375f8b9-d2fb-5d2b-1c0c-a54b0bb412b5",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/role/right/id",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "根据roleId列表获取rightID列表/v1/role/right/id",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504609791026,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\"ids\":[\"2\",\"3\",\"4\",\"8\",\"9\",\"10\",\"14\",\"15\",\"16\",\"17\",\"18\"],\"idType\":null}"
+		},
+		{
+			"id": "f69f4c01-b998-903b-f57a-92a01b755404",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"cfaecca0-777e-446d-a6ee-1fedd4397313\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"cfaecca0-777e-446d-a6ee-1fedd4397313\"}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://47.90.65.57:8091/v1/user/simpleUserCommissionRight",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "返佣用户查询/v1/user/simpleUserCommissionRight",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1505907609816,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\"fuzzyValue\":\"na\"}"
+		},
+		{
+			"id": "fe720dbd-828e-bc64-78ce-25695009695e",
+			"headers": "X-Feign-Key: {\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}\n",
+			"headerData": [
+				{
+					"key": "X-Feign-Key",
+					"value": "{\"clientIp\":\"218.89.239.51\",\"companyName\":\"%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83\",\"device\":\"pc\",\"email\":\"steven@lwork.com\",\"language\":\"zh-CN\",\"phone\":\"\",\"productId\":\"BW\",\"tenantId\":\"T001117\",\"userId\":\"873a31c9-945e-4e4d-892b-88463534689a\"}",
+					"description": ""
+				}
+			],
+			"url": "http://47.90.65.57:8091//v1/user/currentUser",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2c4c725d-2314-f1a7-0dd3-5267946f36f1",
+			"data": null,
+			"dataMode": "params",
+			"name": "查询当前用户信息//v1/user/currentUser",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504168391297,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}

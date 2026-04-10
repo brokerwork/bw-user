@@ -1,0 +1,90 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "esQRw8j0ZHWsHUvQ9mCJjNzY0Hs=",
+			"path": "github.com/denisenkom/go-mssqldb",
+			"revision": "ee80a5a2c2456b397d5080eb71e03a3586c24f54",
+			"revisionTime": "2017-10-06T00:59:22Z"
+		},
+		{
+			"checksumSHA1": "fyQ6D2LUvzhSnGxDSXPARWONPtg=",
+			"path": "github.com/erikstmartin/go-testdb",
+			"revision": "8d10e4a1bae52cd8b81ffdec3445890d6dccab3d",
+			"revisionTime": "2016-02-19T21:45:06Z"
+		},
+		{
+			"checksumSHA1": "Ge9dWlYqk14y8y7sd+f/XBINnAg=",
+			"path": "github.com/google/uuid",
+			"revision": "e367a344cbe8e08149f9951115dc299ebd42b919",
+			"revisionTime": "2017-10-19T17:36:51Z"
+		},
+		{
+			"checksumSHA1": "YCCgRPYgjw5w9PKdkFhpNiPsLao=",
+			"path": "github.com/jinzhu/now",
+			"revision": "d939ba741945c047cac69c329c5fb0d6b4a06520",
+			"revisionTime": "2017-02-12T11:26:55Z"
+		},
+		{
+			"checksumSHA1": "e4bnVbIwMQVnksdJXUHJMu2op7E=",
+			"path": "github.com/lib/pq",
+			"revision": "b77235e3890a962fe8a6f8c4c7198679ca7814e7",
+			"revisionTime": "2017-09-22T17:26:34Z"
+		},
+		{
+			"checksumSHA1": "fq3BmrkVu85eCtHFnngL8NIvjTo=",
+			"path": "github.com/lib/pq/hstore",
+			"revision": "b77235e3890a962fe8a6f8c4c7198679ca7814e7",
+			"revisionTime": "2017-09-22T17:26:34Z"
+		},
+		{
+			"checksumSHA1": "ATnwV0POluBNQEMjPdylodz0oK0=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "b77235e3890a962fe8a6f8c4c7198679ca7814e7",
+			"revisionTime": "2017-09-22T17:26:34Z"
+		},
+		{
+			"checksumSHA1": "nrQFQ10jiWR+KKPvRk86csoL7Xk=",
+			"path": "github.com/mattn/go-sqlite3",
+			"revision": "5160b48509cf5c877bc22c11c373f8c7738cdb38",
+			"revisionTime": "2017-09-28T04:00:20Z"
+		},
+		{
+			"checksumSHA1": "9VnGHaNfB7VQcYf2INovZvXu7NU=",
+			"path": "github.com/mitchellh/go-homedir",
+			"revision": "b8bc1bf767474819792c23f32d8286a45736f1c6",
+			"revisionTime": "2016-12-03T19:45:07Z"
+		},
+		{
+			"checksumSHA1": "ssg1WP/msONqycB6JhHSOHo1yrQ=",
+			"path": "github.com/streadway/amqp",
+			"revision": "ff791c2d22d3f1588b4e2cc71a9fba5e1da90654",
+			"revisionTime": "2017-11-01T22:23:33Z"
+		},
+		{
+			"checksumSHA1": "c7U2W5dC+nzbOXafb0Ysl8PJ6og=",
+			"path": "golang.org/x/crypto/md4",
+			"revision": "81e90905daefcd6fd217b62423c0908922eadb30",
+			"revisionTime": "2017-08-25T20:24:07Z"
+		},
+		{
+			"checksumSHA1": "85tF+h700YYA4HKj3Ch8Z0pkh2c=",
+			"path": "golang.org/x/net/context",
+			"revision": "66aacef3dd8a676686c7ae3716979581e8b03c47",
+			"revisionTime": "2016-09-14T00:11:54Z"
+		},
+		{
+			"checksumSHA1": "PGi1qBHtIv6Mmuy3qOv79Mt9hfs=",
+			"path": "golang.org/x/sys/unix",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "538I8ghUdvZa25NxgMUDpq14Qic=",
+			"path": "gopkg.in/check.v1",
+			"revision": "20d25e2804050c1cd24a7eea1e7a6447dd0e74ec",
+			"revisionTime": "2016-12-08T18:13:25Z"
+		}
+	],
+	"rootPath": "bw/bw-user"
+}
